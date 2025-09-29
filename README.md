@@ -58,7 +58,7 @@ Before you begin, ensure you have the following installed:
 ```
 3. **Download the TTS model**
 ```bash
-   python download_model.py
+   python model_download.py
 ```
 This will download the Chatterbox TTS model from Hugging Face.
 
