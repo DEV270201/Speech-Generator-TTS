@@ -1,0 +1,7 @@
+#python virtual environment
+env
+.env
+#Machine Learning model
+models
+*.wav
+backup.py
